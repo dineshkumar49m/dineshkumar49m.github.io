@@ -1,0 +1,1 @@
+var e=`/assets/portrait-CZ4kqslg.jpg`;export{e as t};
